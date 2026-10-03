@@ -1,3 +1,5 @@
+STEM_Source_Codes:
+
 md_rnaions.c
 
 The program md_rnaions.c takes one argument, a gromacs.mdp type file. A few example mdp files are provided in the directory "extras/examples/". This file sets a few key parameters and file names. This file is read by the function alloc_parms, so if there is anything else you need to modify, look there first.
@@ -65,9 +67,11 @@ eta.0.0.dat eta_cl.0.0.dat - The condensation variables "eta" from the PRL publi
 A few other output files of less importance are also generated.
 
 
-Outstanding issues
 
-The package is a little rough right now. If you have any confusion or helpful suggestion, you can email avijitmainan97@gmail.com or susmita.roy@iiserkol.ac.in
+
+
+
+If you have any confusion or helpful suggestion, you can email avijitmainan97@gmail.com or susmita.roy@iiserkol.ac.in
 
 
 
