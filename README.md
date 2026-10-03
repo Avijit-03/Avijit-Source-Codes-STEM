@@ -66,12 +66,10 @@ eta.0.0.dat eta_cl.0.0.dat - The condensation variables "eta" from the PRL publi
 
 A few other output files of less importance are also generated.
 
+DMP_PMF:
+All the input files and parameters to reproduce the PMF of DMP system are attached here.
 
-
-
-
-
-If you have any confusion or helpful suggestion, you can email avijitmainan97@gmail.com or susmita.roy@iiserkol.ac.in
+If you have any confusion or helpful suggestion, you can email avijitbiophysics@gmail.com or susmita.roy@iiserkol.ac.in
 
 
 
